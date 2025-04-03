@@ -30,6 +30,7 @@
 
 <modules>
     <module>dominio</module>
+	<module>infraestructura</module>
 </modules>
 	<properties>
 		<java.version>21</java.version>
